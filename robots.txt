@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://techsilah.com/sitemap.xml
